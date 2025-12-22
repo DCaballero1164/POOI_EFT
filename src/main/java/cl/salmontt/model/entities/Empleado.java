@@ -1,8 +1,5 @@
 package cl.salmontt.model.entities;
 
-import cl.salmontt.utils.Direccion;
-import cl.salmontt.utils.Rut;
-
 public class Empleado extends Persona {
 
     private String cargo;

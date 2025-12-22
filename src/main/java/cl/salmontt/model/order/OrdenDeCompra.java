@@ -2,7 +2,6 @@ package cl.salmontt.model.order;
 
 import cl.salmontt.model.entities.Registrable;
 import cl.salmontt.model.entities.Producto;
-import cl.salmontt.utils.Direccion;
 
 import java.util.List;
 
