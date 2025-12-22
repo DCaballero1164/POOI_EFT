@@ -1,0 +1,3 @@
+...::: PRODUCTOS.TXT :::...
+PROD;asd;a;12.0;0
+PROD;212313;cas;23.0;22

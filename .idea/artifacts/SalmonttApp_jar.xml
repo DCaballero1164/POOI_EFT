@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SalmonttApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SalmonttApp_jar</output-path>
+    <root id="archive" name="SalmonttApp.jar">
+      <element id="module-output" name="SalmonttApp" />
+    </root>
+  </artifact>
+</component>

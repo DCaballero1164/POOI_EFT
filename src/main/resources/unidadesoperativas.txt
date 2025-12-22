@@ -1,0 +1,3 @@
+...::: UNIDADESOPERATIVAS.TXT :::...
+CENTRO;a;a;1
+CENTRO;b;b;2

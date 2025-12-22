@@ -1,0 +1,5 @@
+...::: ORDENES.TXT :::...
+ORDEN;4617;Dano;a
+ORDEN;7430;des;a,cas,cas,cas,a
+ORDEN;9797;qwe;a,a,cas,a
+ORDEN;2759;Distribuidora FishPlace;a,a,a,a,a,a,a,a,a
