@@ -60,11 +60,8 @@ Interfaz Gráfica: Visualización dinámica de datos mediante TablaConFiltros y 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clonar el repositorio desde GitHub:
 
-Opcion 1:
  git clone https://github.com/DCaballero1164/POO1_EFT.git
 
-Opcion2:
- Archivo .jar en carpeta en main de GitHub -> Ruta: out/artifacts/SalmonttApp_jar/SalmonttApp.jar
 
 Abrir el proyecto en IntelliJ IDEA (utilizar JDK 17 o superior).
 
