@@ -50,7 +50,6 @@ Interfaz Gráfica: Visualización dinámica de datos mediante TablaConFiltros y 
 │       └── OrdenDeCompra.java    
 │
 └── 📂 cl.salmontt.utils/         # Utilidades y Componentes UI
-    ├── Excepciones.java          # Manejo de errores personalizados.
     ├── FileReader.java           # Utilidad de lectura de sistema de archivos.
     ├── TablaConFiltros.java      # Componente de interfaz gráfica (JTable).
     └── Validaciones.java         # Lógica de validación general.
